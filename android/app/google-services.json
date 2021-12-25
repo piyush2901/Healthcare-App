@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147802703883",
+    "project_id": "cmstest-f20b5",
+    "storage_bucket": "cmstest-f20b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147802703883:android:d9e946d1af025990bc1f0e",
+        "android_client_info": {
+          "package_name": "com.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147802703883-230uvlje1a4i8suv4q1rj1gei6g0nj4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2jTgeQl5r2lpffJDMHtRZ5Mhxji09xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147802703883-230uvlje1a4i8suv4q1rj1gei6g0nj4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
